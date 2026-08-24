@@ -1,7 +1,7 @@
 
 # Snow60
 
-**SnowPad is a low profile 60% keybaord with choc v2 switches**
+**SnowPad is a low profile 60% keyboard with choc v2 switches**
 
 
   
@@ -22,3 +22,14 @@
 - The MCU used for this project is a usb-c rasberry pi pico
 
 <img width="1123" height="794" alt="snow60" src="https://github.com/user-attachments/assets/8da49e4b-c551-470e-9007-21fe6a774d01" />
+
+
+
+## PCB - Per key
+
+- This is a PCB designed specifically for individuals to equip RGB lighting to each key
+  <img width="579" height="622" alt="image" src="https://github.com/user-attachments/assets/b945fc28-eeb0-44b3-aa31-9b0796ff2a86" />
+
+
+
+
