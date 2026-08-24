@@ -28,7 +28,11 @@
 ## PCB - Per key
 
 - This is a PCB designed specifically for individuals to equip RGB lighting to each key
-  <img width="579" height="622" alt="image" src="https://github.com/user-attachments/assets/b945fc28-eeb0-44b3-aa31-9b0796ff2a86" />
+
+| PCB | Shematic |
+| -------- | ------- |
+|  <img width="579" height="622" alt="image" src="https://github.com/user-attachments/assets/b945fc28-eeb0-44b3-aa31-9b0796ff2a86" /> |<img width="599" height="423" alt="image" src="https://github.com/user-attachments/assets/942df7bd-1d83-4911-897e-79458fcf06c8" />
+|
 
 
 
