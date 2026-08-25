@@ -14,7 +14,7 @@
 | Raspberry Pi Pico | 1 | AliExpress | $ 3.67 |
 | 0.1uf 1206 smd capacitor | 100 | AliExpress | $ 3.67 |
 | SK6812 Mini E RGB LED | 100 | AliExpress | $ 6.45 |
-| Womier Low Profile Keycaps | 1 | Amazon | 23.61|
+| Womier Low Profile Keycaps | 1 | Amazon | $ 23.61|
 | 3D Prints| 3 | JLCPCB | $ 24.78 |
 | PCB | 5 | JLCPCB | $ 4 |
 | Low-profile Stabilisers | 1 | Gateron | $ 11.18 |
