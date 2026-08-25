@@ -8,10 +8,10 @@
 | Component |  Quantity | Source | Price |
 | --------- | --------- | ------ | ----- |
 | Kailh 1353 Choc V2 | 70 | AliExpress  | $ 28.57  |
-| 1N4148 Diodes | 100 | AliExpress | $ 2.58 |
+| 1N4148 Diodes | 100 | AliExpress | $ 2.59 |
 | M2 Countersunk Screws | 30 | AliExpress | $ 3.10 | 
 | M2 Heat Inserts | 100 | AliExpress | $ 5.31 |
-| Raspberry Pi Pico | 1 | AliExpress | $ 3.67 |
+| Raspberry Pi Pico | 1 | AliExpress | $ 3.69 |
 | 0.1uf 1206 smd capacitor | 100 | AliExpress | $ 3.67 |
 | SK6812 Mini E RGB LED | 100 | AliExpress | $ 6.45 |
 | Womier Low Profile Keycaps | 1 | Amazon | $ 23.61|
