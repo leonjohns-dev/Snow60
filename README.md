@@ -3,6 +3,12 @@
 
 **SnowPad is a low profile 60% keyboard with choc v2 switches**
 
+## BOM
+
+| Component |  Quantity | Source | Price |
+| --------- | --------- | ------ | ----- |
+| Kailh 1353 Choc V2 | 70 | AliExpress  | $ 28.57  |
+
 
   
 ## CAD
