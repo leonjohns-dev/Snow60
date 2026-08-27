@@ -3,9 +3,6 @@
 
 **SnowPad is a low profile 60% keyboard with choc v2 switches**
 
-## BOM
-
-
 
   
 ## CAD
