@@ -20,6 +20,7 @@
 ## Shematic
 
 - The MCU used for this project is a usb-c rasberry pi pico
+- This is the shematic not for a PCB rather a diagram which can be used to hand wire the board
 
 <img width="1123" height="794" alt="snow60" src="https://github.com/user-attachments/assets/8da49e4b-c551-470e-9007-21fe6a774d01" />
 
@@ -28,6 +29,8 @@
 ## PCB - Per key
 
 - This is a PCB designed specifically for individuals to equip RGB lighting to each key
+- It is a single PCB board with V-cuts, which allows it to be split into multiple parts for each key
+- Its single purpose is to hold onto RGB lights for each key while reducing the cost of making a singe large pcb.
 
 | PCB | Shematic |
 | -------- | ------- |
