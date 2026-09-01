@@ -28,9 +28,9 @@
 
 ## PCB 
 
-- This is a PCB designed specifically for individuals to equip RGB lighting to each key
+- This is a PCB designed specifically for RGB lighting for each key
 - It is a single PCB board with V-cuts, which allows it to be split into multiple parts for each key
-- Its single purpose is to hold onto RGB lights for each key while reducing the cost of making a singe large pcb.
+- Its single purpose is to hold RGB lights for each key while reducing the cost of making a single large PCB.
 
 | PCB | Shematic |
 | -------- | ------- |
