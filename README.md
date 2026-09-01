@@ -26,7 +26,7 @@
 
 
 
-## PCB - Per key
+## PCB 
 
 - This is a PCB designed specifically for individuals to equip RGB lighting to each key
 - It is a single PCB board with V-cuts, which allows it to be split into multiple parts for each key
